@@ -9,6 +9,10 @@ Nessa atividade foi recriado um blog com ênfase em:
 - Variáveis em CSS e cores HSL;
 - Animações.
 
+## 🔖 Layout 
+
+<img src= "./github-img/project.png" width="100%">
+
 ## 👩‍💻 Demonstração
 
 No seguinte link está disponível uma visualização do atividade em funcionamento: [Clique Aqui!](<https://www.linkedin.com/feed/update/urn:li:activity:7090164752139599872/?originTrackingId=cL62WF%2FyQpusxCpwkxSn5A%3D%3D>)
