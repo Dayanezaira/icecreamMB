@@ -9,10 +9,6 @@ Nessa atividade foi recriado um blog com ênfase em:
 - Variáveis em CSS e cores HSL;
 - Animações.
 
-<img src= "./github-img/project.png" width="25%" text-align= "center">
-
 ## 👩‍💻 Demonstração
 
-Logo abaixo uma demosntração do funcionamento do blog:
-
-<video src="./github-img/IceCream.mp4" type="video/mp4" width="100%">
+No seguinte link está disponível uma visualização do atividade em funcionamento: [Clique Aqui!](<https://www.linkedin.com/feed/update/urn:li:activity:7090164752139599872/?originTrackingId=cL62WF%2FyQpusxCpwkxSn5A%3D%3D>)
