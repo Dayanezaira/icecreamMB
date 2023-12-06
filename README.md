@@ -9,7 +9,7 @@ Nessa atividade foi recriado um blog com ênfase em:
 - Variáveis em CSS e cores HSL;
 - Animações.
 
-<img src= "./github-img/project.png" width="50%">
+<img src= "./github-img/project.png" width="25%" text-align= "center">
 
 ## 👩‍💻 Demonstração
 
